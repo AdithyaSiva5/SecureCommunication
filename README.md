@@ -1,5 +1,3 @@
-# Let's create a markdown README file for the secure communication logic project
-readme_content = """
 # Secure Communication Logic
 
 ![Secure Communication](https://cdn.discordapp.com/attachments/1055888285345513542/1292728448447676457/WhatsApp_Image_2024-10-07_at_00.19.21.jpeg?ex=6704caaf&is=6703792f&hm=d09ddb18a0e3c9c9c9b5b5f226a7959b679367bc3dd970abea532d022dbf2c4b&)
@@ -68,4 +66,4 @@ This project is open-source and available under the MIT License. """
 Write the content to a file
 with open("/mnt/data/SECURE_COMMUNICATION_README.md", "w") as file: file.write(readme_content)
 
-"/mnt/data/SECURE_COMMUNICATION_README.md"
+
