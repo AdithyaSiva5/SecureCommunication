@@ -30,7 +30,7 @@ This project implements a **secure communication logic** using two classical cry
     ```
 3. Run the encryption or decryption logic from the command line:
     ```bash
-    python secure_communication.py
+    python main.py
     ```
 
 ## Encryption Example
